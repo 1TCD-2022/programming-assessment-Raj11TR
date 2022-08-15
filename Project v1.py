@@ -14,7 +14,7 @@ Q6 = ["what's tony starks dad's name? 1.tonnie stark 2.joseph stark or 3.howard 
 Q7 = ["who was the richest person to ever live? 1.andrew carnegie 2.augustus caesar or 3.mansa musa"]
 Q8 = ["what's the most visited country by people? 1.france 2.china 3.italy"]
 Q9 = ["which is the highest grossing harry potter film? 1.harry Potter and the half-blood prince 2.harry potter and the deathly hallows part 2 or 3.harry Potter and the philosopher's stone"] 
-Q10 = ["what's the richest company in the world 1.tesla 2.microsoft ]
+Q10 = ["what's the richest company in the world 1.tesla 2.microsoft " ]
 #options to pick with in each question 
 
 
